@@ -1,0 +1,4 @@
+The resulting values are [10, 8, 12, 11, 7, 9].
+well done greg and again and again and even again
+----------
+==========

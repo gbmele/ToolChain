@@ -1,0 +1,14 @@
+this is wow...
+and who knew this would work.......
+hit escape i to get into insert mode
+then hi
+BEGIN{ 
+print "this is the begin"
+
+}
+public calss
+how to get syntax highlighting.....
+type " :set number "  to get the line numberst
+this is line 8
+press i to getinto insert mode
+
